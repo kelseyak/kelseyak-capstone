@@ -1,13 +1,11 @@
 diary-meta,Diary,
 title,Title,
-creator,Creator,
+creator,Author,
 date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+subject,Subjects,
+location,Location,
+source,Collection
 identifier,Source Identifier,,
 type,Type,
 format,Format,
