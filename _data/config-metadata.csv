@@ -1,13 +1,11 @@
-diary-meta,Diary
-title,Title
-creator,Author,,
-date,Date Created
-description,Description,,
-subject,Subjects
-location,Location,,
+field,display_name,browse_link,external_link
+ diary-meta,Diary,
+ title,Title,
+ creator,Author,
+ date,Date Written,
+description,Description,
+subject,Subjects,
+location,Location
 source,Collection
-identifier,Source Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
