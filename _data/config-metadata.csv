@@ -2,7 +2,7 @@ diary-meta,Diary,
 title,Title,
 creator,Author,
 date,Date Created,
-description,Description,
+description,Description,,
 subject,Subjects
 location,Location,,
 source,Collection
